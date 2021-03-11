@@ -15,6 +15,11 @@ After doing all of that, open any Friday Night Funkin' song and start playing it
 
 If you feel that machine stopped responding to your inputs, restart the FunkinCTRL program. Crap happens.
 
+# Used third-party libraries
+This project uses following side libraries:
+ * WindowsInput: for emulating key pressing (https://github.com/michaelnoonan/inputsimulator) [MIT License]
+ * Lego Mindstorms EV3 API wrapper (https://github.com/BrianPeek/legoev3) [Apache 2.0 License]
+
 (C) 2021 red-the-random-dev
 https://github.com/red-the-random-dev/FunkinCTRL/
 
