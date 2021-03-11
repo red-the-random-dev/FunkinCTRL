@@ -1,5 +1,5 @@
 # FunkinCTRL
-Utility to enhance your FNF gameplay by use of Lego EV3 electric guitar.
+Utility to enhance your Friday Night Funkin' gameplay by use of Lego EV3 electric guitar.
 
 # How to get started?
 
